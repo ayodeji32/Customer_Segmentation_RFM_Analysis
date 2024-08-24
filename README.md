@@ -1,2 +1,2 @@
-# Customer_Segmentation_RFM_Analysis
+# Customer Segmentation
 Performing customer segmentation for a retail store using RFM Analysis
